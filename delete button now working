@@ -1,4 +1,4 @@
-fix outlook delete button now working
+fix outlook delete button not working
   https://callthatgirl.biz/delete-button-grayed-out-in-microsoft-outlook/
     1-Backup your IMAP folder list first, (be sure to lift all filters applied first) to a local Outlook PST (do not save in OneDrive documents)
       https://support.microsoft.com/en-us/office/back-up-your-email-e5845b0b-1aeb-424f-924c-aa1c33b18833
